@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eoyieloose.talents-for-lithuania.eu/sitemap.xml
